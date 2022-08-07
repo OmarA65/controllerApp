@@ -1,0 +1,95 @@
+{[
+
+{
+        "parentId": null,
+        "vendor": "Samsung",
+        "status": true,
+        "ip": "150.222.172.26"
+},
+{
+        "parentId": null,
+        "vendor": "Samsung",
+        "status": true,
+        "ip": "248.102.202.137"
+},
+{
+        "parentId": null,
+        "vendor": "Samsung",
+        "status": false,
+        "ip": "50.98.64.185"
+},
+{
+        "parentId": null,
+        "vendor": "Samsung",
+        "status": true,
+        "ip": "8.208.59.133"
+},
+{
+        "parentId": null,
+        "vendor": "Sony",
+        "status": false,
+        "ip": "171.202.125.34"
+},
+{
+        "parentId": null,
+        "vendor": "Sony",
+        "status": true,
+        "ip": "26.110.23.114"
+},
+{
+        "parentId": null,
+        "vendor": "Sony",
+        "status": true,
+        "ip": "140.72.202.123"
+},
+{
+        "parentId": null,
+        "vendor": "LG",
+        "status": true,
+        "ip": "70.177.121.161"
+},
+{
+        "parentId": null,
+        "vendor": "LG",
+        "status": false,
+        "ip": "110.139.246.205"
+},
+{
+        "parentId": null,
+        "vendor": "LG",
+        "status": true,
+        "ip": "78.148.195.8"
+},
+{
+        "parentId": null,
+        "vendor": "Panasonic",
+        "status": true,
+        "ip": "127.152.114.191"
+},
+{
+        "parentId": null,
+        "vendor": "Panasonic",
+        "status": true,
+        "ip": "67.37.228.164"
+},
+{
+        "parentId": null,
+        "vendor": "Panasonic",
+        "status": false,
+        "ip": "102.250.30.180"
+},
+{
+        "parentId": null,
+        "vendor": "Avtech",
+        "status": false,
+        "ip": "56.29.236.59"
+},
+{
+        "parentId": null,
+        "vendor": "Avtech",
+        "status": true,
+        "ip": "38.28.142.241"
+}
+
+
+]}
